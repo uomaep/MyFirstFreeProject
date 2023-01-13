@@ -67,3 +67,7 @@ spellCheck 함수 – histories의 position값에 맞는 스펠 이미지를 리
 itemImg 함수 – histories의 items배열의 각 원소(item)에 맞는 아이템 이미지를 리턴
 totemImg 함수 – histories의 totem값에 맞는 토템 이미지를 리턴
 
+<img width="1648" alt="스크린샷 2023-01-13 오후 2 37 42" src="https://user-images.githubusercontent.com/114221785/212245700-65bca765-bff9-4bc4-9d5e-f1b4ae34505d.png">
+<img width="1648" alt="스크린샷 2023-01-13 오후 2 39 08" src="https://user-images.githubusercontent.com/114221785/212245727-df83b188-4913-4111-ab56-761dd3a63ffa.png">
+<img width="1648" alt="스크린샷 2023-01-13 오후 2 39 22" src="https://user-images.githubusercontent.com/114221785/212245740-0556332e-f738-417e-9194-d672e5e0e372.png">
+
